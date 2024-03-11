@@ -1,0 +1,70 @@
+==================================
+==================================
+        FOLDER - 2 (4 items)
+==================================
+===================================
+----------------------------------------------------------------------
+A. React setUp
+
+1. client -> front-end site and server -> backend site 
+2. npx create-react-app client and to run -> cd client -> npm start -> Default URL -> http://localhost:3000/
+----------------------------------------------------------------------
+B. Antd
+
+1. npm i antd
+2. read the documentation for importing packages.
+3. it is  just for components purpose.
+
+----------------------------------------------------------------------
+C. Tailwind
+
+1. it is an external library.
+2. npm install -D tailwindcss -> npx tailwindcss init
+3. check the documentation for the process and rewrite the code in Tailwind.config.js file.
+4. add some tailwind properties in index.css file
+5. it is added in  Tailwind.config.js file which prevents in overlapping the css properties. 
+corePlugins: {
+    preflight:false,
+}
+
+----------------------------------------------------------------------
+D. Folder Structure
+
+1. npm i react-router-dom axios redux react-redux @reduxjs/toolkit moment 
+2. created 4 folders - pages,components,redux,apicalls
+3. created files and updated basic react code - rfc -> react functional component
+4. imported react-router-dom packages and its corresponding code to import the pages.
+5. BrowserRouter, Routes , router are used.
+----------------------------------------------------------------------
+
+
+==================================
+==================================
+        FOLDER - 3 (3 items)
+==================================
+===================================
+
+----------------------------------------------------------------------
+A. Donar Registration
+
+1.
+
+
+----------------------------------------------------------------------
+B.  HospitalOrganization Registration
+
+1.
+
+
+----------------------------------------------------------------------
+C. Login
+
+1.
+
+
+
+==================================
+==================================
+        FOLDER - 4 (2 items)
+==================================
+===================================
